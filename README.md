@@ -10,7 +10,6 @@ Habbo Profile Search is a web application built with PHP and Tailwind CSS that a
 - Friends List: Lists the user's friends with their avatars and links to view their profiles.
 - Groups List: Displays the user's groups with their badges and names.
 - Responsive Design: Fully optimized for mobile devices with adjusted layouts, font sizes, and spacing.
-- Sticky Footer: The footer remains at the bottom of the page, whether content is minimal (pre-search) or extensive (post-search).
 - Loading Indicator: A spinner appears during profile searches for better user experience.
 - Visual Effects: Includes glow effects, hover animations, and gradient styling for a modern look.
 
