@@ -1,5 +1,5 @@
 
-# Habbo Profile Search
+# Habbo Profile Checker
 
 ### Overview
 Habbo Profile Search is a web application built with PHP and Tailwind CSS that allows users to search for Habbo user profiles using the HabboAPI. The application fetches and displays detailed profile information, including user details, friends, and groups, with a responsive design optimized for both desktop and mobile devices.
